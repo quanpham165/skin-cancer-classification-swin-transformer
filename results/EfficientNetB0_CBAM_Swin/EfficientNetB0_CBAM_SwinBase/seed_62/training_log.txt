@@ -1,0 +1,340 @@
+Epoch 1/50 | LR: 0.000298 | Train Loss: 1.2329 | Train Acc: 0.3240 | Val Loss: 0.6868 | Val Acc: 0.5293 | Val F1: 0.5116 | Val Recall: 0.5290
+   actinic keratosis F1: 0.5514
+   basal cell carcinoma F1: 0.4127
+   dermatofibroma F1: 0.7295
+   melanoma F1: 0.3369
+   nevus F1: 0.4437
+   pigmented benign keratosis F1: 0.2200
+   seborrheic keratosis F1: 0.6437
+   squamous cell carcinoma F1: 0.3034
+   vascular lesion F1: 0.9628
+Epoch 2/50 | LR: 0.000293 | Train Loss: 0.6862 | Train Acc: 0.5613 | Val Loss: 0.4088 | Val Acc: 0.7002 | Val F1: 0.6874 | Val Recall: 0.6986
+   actinic keratosis F1: 0.7395
+   basal cell carcinoma F1: 0.7478
+   dermatofibroma F1: 0.9114
+   melanoma F1: 0.3481
+   nevus F1: 0.6418
+   pigmented benign keratosis F1: 0.6096
+   seborrheic keratosis F1: 0.6624
+   squamous cell carcinoma F1: 0.5617
+   vascular lesion F1: 0.9642
+Epoch 3/50 | LR: 0.000284 | Train Loss: 0.4641 | Train Acc: 0.6761 | Val Loss: 0.3248 | Val Acc: 0.7532 | Val F1: 0.7278 | Val Recall: 0.7512
+   actinic keratosis F1: 0.7957
+   basal cell carcinoma F1: 0.8586
+   dermatofibroma F1: 0.9691
+   melanoma F1: 0.2047
+   nevus F1: 0.6074
+   pigmented benign keratosis F1: 0.6874
+   seborrheic keratosis F1: 0.7218
+   squamous cell carcinoma F1: 0.7311
+   vascular lesion F1: 0.9749
+Epoch 4/50 | LR: 0.000271 | Train Loss: 0.3832 | Train Acc: 0.7152 | Val Loss: 0.2501 | Val Acc: 0.7857 | Val F1: 0.7736 | Val Recall: 0.7840
+   actinic keratosis F1: 0.8211
+   basal cell carcinoma F1: 0.8843
+   dermatofibroma F1: 0.9723
+   melanoma F1: 0.3593
+   nevus F1: 0.7028
+   pigmented benign keratosis F1: 0.7668
+   seborrheic keratosis F1: 0.6962
+   squamous cell carcinoma F1: 0.7623
+   vascular lesion F1: 0.9973
+Epoch 5/50 | LR: 0.000256 | Train Loss: 0.3115 | Train Acc: 0.7515 | Val Loss: 0.2350 | Val Acc: 0.8047 | Val F1: 0.7994 | Val Recall: 0.8033
+   actinic keratosis F1: 0.8414
+   basal cell carcinoma F1: 0.8900
+   dermatofibroma F1: 0.9713
+   melanoma F1: 0.5015
+   nevus F1: 0.7131
+   pigmented benign keratosis F1: 0.7697
+   seborrheic keratosis F1: 0.6967
+   squamous cell carcinoma F1: 0.8141
+   vascular lesion F1: 0.9973
+Epoch 6/50 | LR: 0.000238 | Train Loss: 0.2646 | Train Acc: 0.7788 | Val Loss: 0.1893 | Val Acc: 0.8208 | Val F1: 0.8116 | Val Recall: 0.8194
+   actinic keratosis F1: 0.8375
+   basal cell carcinoma F1: 0.8987
+   dermatofibroma F1: 0.9867
+   melanoma F1: 0.4351
+   nevus F1: 0.6829
+   pigmented benign keratosis F1: 0.8454
+   seborrheic keratosis F1: 0.7605
+   squamous cell carcinoma F1: 0.8591
+   vascular lesion F1: 0.9987
+Epoch 7/50 | LR: 0.000218 | Train Loss: 0.2374 | Train Acc: 0.7792 | Val Loss: 0.1681 | Val Acc: 0.8401 | Val F1: 0.8280 | Val Recall: 0.8385
+   actinic keratosis F1: 0.9038
+   basal cell carcinoma F1: 0.9385
+   dermatofibroma F1: 0.9961
+   melanoma F1: 0.4396
+   nevus F1: 0.6678
+   pigmented benign keratosis F1: 0.8421
+   seborrheic keratosis F1: 0.7814
+   squamous cell carcinoma F1: 0.8995
+   vascular lesion F1: 0.9837
+Epoch 8/50 | LR: 0.000196 | Train Loss: 0.2082 | Train Acc: 0.7971 | Val Loss: 0.1825 | Val Acc: 0.8312 | Val F1: 0.8177 | Val Recall: 0.8295
+   actinic keratosis F1: 0.8671
+   basal cell carcinoma F1: 0.9381
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.3885
+   nevus F1: 0.6432
+   pigmented benign keratosis F1: 0.8458
+   seborrheic keratosis F1: 0.7643
+   squamous cell carcinoma F1: 0.9204
+   vascular lesion F1: 0.9920
+Epoch 9/50 | LR: 0.000173 | Train Loss: 0.1752 | Train Acc: 0.8215 | Val Loss: 0.1247 | Val Acc: 0.8720 | Val F1: 0.8503 | Val Recall: 0.8700
+   actinic keratosis F1: 0.8983
+   basal cell carcinoma F1: 0.9633
+   dermatofibroma F1: 0.9948
+   melanoma F1: 0.3461
+   nevus F1: 0.7846
+   pigmented benign keratosis F1: 0.9278
+   seborrheic keratosis F1: 0.7852
+   squamous cell carcinoma F1: 0.9607
+   vascular lesion F1: 0.9919
+Epoch 10/50 | LR: 0.000150 | Train Loss: 0.1488 | Train Acc: 0.8345 | Val Loss: 0.1149 | Val Acc: 0.8699 | Val F1: 0.8483 | Val Recall: 0.8679
+   actinic keratosis F1: 0.8988
+   basal cell carcinoma F1: 0.9695
+   dermatofibroma F1: 0.9961
+   melanoma F1: 0.3281
+   nevus F1: 0.7813
+   pigmented benign keratosis F1: 0.9331
+   seborrheic keratosis F1: 0.7681
+   squamous cell carcinoma F1: 0.9647
+   vascular lesion F1: 0.9946
+Epoch 11/50 | LR: 0.000127 | Train Loss: 0.1331 | Train Acc: 0.8502 | Val Loss: 0.0947 | Val Acc: 0.8893 | Val F1: 0.8769 | Val Recall: 0.8876
+   actinic keratosis F1: 0.8922
+   basal cell carcinoma F1: 0.9752
+   dermatofibroma F1: 0.9961
+   melanoma F1: 0.5080
+   nevus F1: 0.7979
+   pigmented benign keratosis F1: 0.9405
+   seborrheic keratosis F1: 0.8066
+   squamous cell carcinoma F1: 0.9760
+   vascular lesion F1: 1.0000
+Epoch 12/50 | LR: 0.000104 | Train Loss: 0.1127 | Train Acc: 0.8660 | Val Loss: 0.0878 | Val Acc: 0.8958 | Val F1: 0.8871 | Val Recall: 0.8943
+   actinic keratosis F1: 0.9012
+   basal cell carcinoma F1: 0.9867
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.5776
+   nevus F1: 0.7885
+   pigmented benign keratosis F1: 0.9440
+   seborrheic keratosis F1: 0.8061
+   squamous cell carcinoma F1: 0.9801
+   vascular lesion F1: 1.0000
+Epoch 13/50 | LR: 0.000082 | Train Loss: 0.0905 | Train Acc: 0.8760 | Val Loss: 0.0824 | Val Acc: 0.9041 | Val F1: 0.8938 | Val Recall: 0.9026
+   actinic keratosis F1: 0.9089
+   basal cell carcinoma F1: 0.9855
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.5620
+   nevus F1: 0.8216
+   pigmented benign keratosis F1: 0.9673
+   seborrheic keratosis F1: 0.8190
+   squamous cell carcinoma F1: 0.9801
+   vascular lesion F1: 1.0000
+Epoch 14/50 | LR: 0.000062 | Train Loss: 0.0830 | Train Acc: 0.8878 | Val Loss: 0.0838 | Val Acc: 0.9056 | Val F1: 0.8991 | Val Recall: 0.9044
+   actinic keratosis F1: 0.9078
+   basal cell carcinoma F1: 0.9730
+   dermatofibroma F1: 0.9987
+   melanoma F1: 0.6321
+   nevus F1: 0.8340
+   pigmented benign keratosis F1: 0.9578
+   seborrheic keratosis F1: 0.8215
+   squamous cell carcinoma F1: 0.9673
+   vascular lesion F1: 1.0000
+Epoch 15/50 | LR: 0.000044 | Train Loss: 0.0852 | Train Acc: 0.8920 | Val Loss: 0.0797 | Val Acc: 0.9056 | Val F1: 0.8989 | Val Recall: 0.9043
+   actinic keratosis F1: 0.9060
+   basal cell carcinoma F1: 0.9786
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.6154
+   nevus F1: 0.8466
+   pigmented benign keratosis F1: 0.9620
+   seborrheic keratosis F1: 0.8040
+   squamous cell carcinoma F1: 0.9801
+   vascular lesion F1: 0.9973
+Epoch 16/50 | LR: 0.000029 | Train Loss: 0.0782 | Train Acc: 0.8878 | Val Loss: 0.0756 | Val Acc: 0.9220 | Val F1: 0.9176 | Val Recall: 0.9209
+   actinic keratosis F1: 0.9100
+   basal cell carcinoma F1: 0.9867
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.7143
+   nevus F1: 0.8423
+   pigmented benign keratosis F1: 0.9690
+   seborrheic keratosis F1: 0.8561
+   squamous cell carcinoma F1: 0.9801
+   vascular lesion F1: 1.0000
+Epoch 17/50 | LR: 0.000016 | Train Loss: 0.0678 | Train Acc: 0.9022 | Val Loss: 0.0733 | Val Acc: 0.9196 | Val F1: 0.9153 | Val Recall: 0.9185
+   actinic keratosis F1: 0.9071
+   basal cell carcinoma F1: 0.9854
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.7043
+   nevus F1: 0.8534
+   pigmented benign keratosis F1: 0.9677
+   seborrheic keratosis F1: 0.8400
+   squamous cell carcinoma F1: 0.9801
+   vascular lesion F1: 1.0000
+Epoch 18/50 | LR: 0.000007 | Train Loss: 0.0642 | Train Acc: 0.9054 | Val Loss: 0.0765 | Val Acc: 0.9184 | Val F1: 0.9136 | Val Recall: 0.9173
+   actinic keratosis F1: 0.9049
+   basal cell carcinoma F1: 0.9894
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.6914
+   nevus F1: 0.8535
+   pigmented benign keratosis F1: 0.9619
+   seborrheic keratosis F1: 0.8375
+   squamous cell carcinoma F1: 0.9840
+   vascular lesion F1: 1.0000
+Epoch 19/50 | LR: 0.000002 | Train Loss: 0.0625 | Train Acc: 0.9074 | Val Loss: 0.0764 | Val Acc: 0.9172 | Val F1: 0.9119 | Val Recall: 0.9160
+   actinic keratosis F1: 0.9071
+   basal cell carcinoma F1: 0.9907
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.6679
+   nevus F1: 0.8625
+   pigmented benign keratosis F1: 0.9716
+   seborrheic keratosis F1: 0.8244
+   squamous cell carcinoma F1: 0.9827
+   vascular lesion F1: 1.0000
+Epoch 20/50 | LR: 0.000000 | Train Loss: 0.0621 | Train Acc: 0.9128 | Val Loss: 0.0762 | Val Acc: 0.9205 | Val F1: 0.9163 | Val Recall: 0.9194
+   actinic keratosis F1: 0.9100
+   basal cell carcinoma F1: 0.9786
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.7106
+   nevus F1: 0.8650
+   pigmented benign keratosis F1: 0.9689
+   seborrheic keratosis F1: 0.8422
+   squamous cell carcinoma F1: 0.9711
+   vascular lesion F1: 1.0000
+Epoch 21/50 | LR: 0.000002 | Train Loss: 0.0656 | Train Acc: 0.9059 | Val Loss: 0.0735 | Val Acc: 0.9217 | Val F1: 0.9173 | Val Recall: 0.9206
+   actinic keratosis F1: 0.9060
+   basal cell carcinoma F1: 0.9907
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.7049
+   nevus F1: 0.8600
+   pigmented benign keratosis F1: 0.9689
+   seborrheic keratosis F1: 0.8413
+   squamous cell carcinoma F1: 0.9840
+   vascular lesion F1: 1.0000
+Epoch 22/50 | LR: 0.000007 | Train Loss: 0.0630 | Train Acc: 0.9098 | Val Loss: 0.0746 | Val Acc: 0.9220 | Val F1: 0.9178 | Val Recall: 0.9209
+   actinic keratosis F1: 0.9089
+   basal cell carcinoma F1: 0.9826
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.7150
+   nevus F1: 0.8613
+   pigmented benign keratosis F1: 0.9676
+   seborrheic keratosis F1: 0.8470
+   squamous cell carcinoma F1: 0.9775
+   vascular lesion F1: 1.0000
+Epoch 23/50 | LR: 0.000016 | Train Loss: 0.0588 | Train Acc: 0.9125 | Val Loss: 0.0750 | Val Acc: 0.9232 | Val F1: 0.9197 | Val Recall: 0.9222
+   actinic keratosis F1: 0.9111
+   basal cell carcinoma F1: 0.9786
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.7337
+   nevus F1: 0.8650
+   pigmented benign keratosis F1: 0.9690
+   seborrheic keratosis F1: 0.8479
+   squamous cell carcinoma F1: 0.9724
+   vascular lesion F1: 1.0000
+Epoch 24/50 | LR: 0.000029 | Train Loss: 0.0641 | Train Acc: 0.9081 | Val Loss: 0.0789 | Val Acc: 0.9241 | Val F1: 0.9203 | Val Recall: 0.9231
+   actinic keratosis F1: 0.9098
+   basal cell carcinoma F1: 0.9854
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.7325
+   nevus F1: 0.8499
+   pigmented benign keratosis F1: 0.9742
+   seborrheic keratosis F1: 0.8548
+   squamous cell carcinoma F1: 0.9763
+   vascular lesion F1: 1.0000
+Epoch 25/50 | LR: 0.000044 | Train Loss: 0.0631 | Train Acc: 0.9075 | Val Loss: 0.0746 | Val Acc: 0.9256 | Val F1: 0.9228 | Val Recall: 0.9247
+   actinic keratosis F1: 0.9032
+   basal cell carcinoma F1: 0.9772
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.7644
+   nevus F1: 0.8491
+   pigmented benign keratosis F1: 0.9741
+   seborrheic keratosis F1: 0.8652
+   squamous cell carcinoma F1: 0.9724
+   vascular lesion F1: 1.0000
+Epoch 26/50 | LR: 0.000062 | Train Loss: 0.0638 | Train Acc: 0.9099 | Val Loss: 0.0723 | Val Acc: 0.9256 | Val F1: 0.9227 | Val Recall: 0.9247
+   actinic keratosis F1: 0.9051
+   basal cell carcinoma F1: 0.9718
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.7633
+   nevus F1: 0.8670
+   pigmented benign keratosis F1: 0.9661
+   seborrheic keratosis F1: 0.8638
+   squamous cell carcinoma F1: 0.9673
+   vascular lesion F1: 1.0000
+Epoch 27/50 | LR: 0.000082 | Train Loss: 0.0699 | Train Acc: 0.9091 | Val Loss: 0.0765 | Val Acc: 0.9286 | Val F1: 0.9259 | Val Recall: 0.9277
+   actinic keratosis F1: 0.9089
+   basal cell carcinoma F1: 0.9785
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.7754
+   nevus F1: 0.8542
+   pigmented benign keratosis F1: 0.9742
+   seborrheic keratosis F1: 0.8709
+   squamous cell carcinoma F1: 0.9711
+   vascular lesion F1: 1.0000
+Epoch 28/50 | LR: 0.000104 | Train Loss: 0.0736 | Train Acc: 0.9052 | Val Loss: 0.0687 | Val Acc: 0.9294 | Val F1: 0.9269 | Val Recall: 0.9285
+   actinic keratosis F1: 0.9100
+   basal cell carcinoma F1: 0.9815
+   dermatofibroma F1: 0.9987
+   melanoma F1: 0.7745
+   nevus F1: 0.8721
+   pigmented benign keratosis F1: 0.9675
+   seborrheic keratosis F1: 0.8622
+   squamous cell carcinoma F1: 0.9814
+   vascular lesion F1: 0.9946
+Epoch 29/50 | LR: 0.000127 | Train Loss: 0.0721 | Train Acc: 0.9040 | Val Loss: 0.0782 | Val Acc: 0.9172 | Val F1: 0.9131 | Val Recall: 0.9162
+   actinic keratosis F1: 0.9084
+   basal cell carcinoma F1: 0.9785
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.6986
+   nevus F1: 0.8575
+   pigmented benign keratosis F1: 0.9658
+   seborrheic keratosis F1: 0.8403
+   squamous cell carcinoma F1: 0.9711
+   vascular lesion F1: 0.9973
+Epoch 30/50 | LR: 0.000150 | Train Loss: 0.1128 | Train Acc: 0.8698 | Val Loss: 0.1018 | Val Acc: 0.8913 | Val F1: 0.8889 | Val Recall: 0.8904
+   actinic keratosis F1: 0.9089
+   basal cell carcinoma F1: 0.9734
+   dermatofibroma F1: 0.9948
+   melanoma F1: 0.6852
+   nevus F1: 0.8225
+   pigmented benign keratosis F1: 0.9413
+   seborrheic keratosis F1: 0.7000
+   squamous cell carcinoma F1: 0.9737
+   vascular lesion F1: 1.0000
+Epoch 31/50 | LR: 0.000173 | Train Loss: 0.1065 | Train Acc: 0.8837 | Val Loss: 0.1066 | Val Acc: 0.8988 | Val F1: 0.8923 | Val Recall: 0.8976
+   actinic keratosis F1: 0.8835
+   basal cell carcinoma F1: 0.9619
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.6390
+   nevus F1: 0.7927
+   pigmented benign keratosis F1: 0.9524
+   seborrheic keratosis F1: 0.8528
+   squamous cell carcinoma F1: 0.9621
+   vascular lesion F1: 0.9867
+Epoch 32/50 | LR: 0.000196 | Train Loss: 0.1007 | Train Acc: 0.8862 | Val Loss: 0.1023 | Val Acc: 0.9035 | Val F1: 0.8978 | Val Recall: 0.9023
+   actinic keratosis F1: 0.9012
+   basal cell carcinoma F1: 0.9601
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.6490
+   nevus F1: 0.8406
+   pigmented benign keratosis F1: 0.9501
+   seborrheic keratosis F1: 0.8226
+   squamous cell carcinoma F1: 0.9661
+   vascular lesion F1: 0.9907
+Epoch 33/50 | LR: 0.000218 | Train Loss: 0.0905 | Train Acc: 0.8940 | Val Loss: 0.0919 | Val Acc: 0.9199 | Val F1: 0.9172 | Val Recall: 0.9191
+   actinic keratosis F1: 0.9001
+   basal cell carcinoma F1: 0.9632
+   dermatofibroma F1: 1.0000
+   melanoma F1: 0.7647
+   nevus F1: 0.8313
+   pigmented benign keratosis F1: 0.9501
+   seborrheic keratosis F1: 0.8629
+   squamous cell carcinoma F1: 0.9840
+   vascular lesion F1: 0.9987
+Epoch 34/50 | LR: 0.000238 | Train Loss: 0.1036 | Train Acc: 0.8840 | Val Loss: 0.1168 | Val Acc: 0.8881 | Val F1: 0.8799 | Val Recall: 0.8866
+   actinic keratosis F1: 0.8758
+   basal cell carcinoma F1: 0.9694
+   dermatofibroma F1: 0.9987
+   melanoma F1: 0.5667
+   nevus F1: 0.8350
+   pigmented benign keratosis F1: 0.9217
+   seborrheic keratosis F1: 0.7902
+   squamous cell carcinoma F1: 0.9711
+   vascular lesion F1: 0.9907
